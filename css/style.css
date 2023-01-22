@@ -1,0 +1,21 @@
+header{
+    background-color: #264653;
+    background-size: cover;
+    width:100%;
+}
+.img-1{
+    width:200px;
+    height:40px;
+    padding-left:60px;
+}
+.img-2{
+    width:200px;
+    height:40px;
+    padding-left:60px;
+    padding-bottom: 5px;
+}
+.btn{
+   background-color:#E76F51 ; 
+   color:white;
+}
+
